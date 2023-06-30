@@ -1,10 +1,10 @@
-package com.menu.demo;
+package com.example.menu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class MenuApplicationTests {
 
 	@Test
 	void contextLoads() {
